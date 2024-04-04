@@ -1,0 +1,32 @@
+Step - 01:
+At first add a profile picture, if you don't have one
+
+Step - 02:
+Create a repository with the same name as your github handle and click on add 
+readme when creating repository
+
+Step - 03:
+Go to this link [https://rahuldkjain.github.io/gh-profile-readme-generator/] 
+and add necessary details whatever you wish
+
+Step - 04:
+Click on "Generate README" and copy everything to the readme file
+
+Step - 05:
+Now Search for a good looking coding GIF on google and copy the image
+
+Step - 06:
+If you don't want to search, for now just copy the below html tag to your
+readme file right below the heading h3
+
+<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+Step - 07:
+Commit and you can see the change by prevewing it
+
+Step - 08:
+If you wish to add banner, then upload a banner on the same repository
+
+Step - 09:
+Copy the banner link address and add it on the top in logo format 
+![logo](Put the Link Here)
